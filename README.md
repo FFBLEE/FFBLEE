@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FFBLEE
 - 🌱 I’m trying and determined to acquire as much knowledge as I can study.
 
- Picture Profile from : https://www.pixiv.net/en/artworks/119820551
+ Picture Profile from : wuthering waves
 
 <!---
 FFBLEE/FFBLEE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
