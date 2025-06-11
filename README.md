@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @FFBLEE
 - 🌱 I’m trying and determined to acquire as much knowledge as I can study.
 
- Picture Profile from : wuthering waves
+---- many projects in my repo may have ideas from other creators. I want to show that I do not intend to use the ideas for profit, but only to learn and develop for myself. Thank you for taking the time to read.
+
+
+
+Profile Picture from : wuthering waves
 
 <!---
 FFBLEE/FFBLEE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
